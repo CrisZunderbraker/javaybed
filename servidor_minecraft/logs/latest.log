@@ -115,3 +115,24 @@
 [04:48:56] [User Authenticator #1/INFO]: UUID of player Astaroft5236 is 83eeb20b-9149-30d0-be6e-a403fbaee20c
 [04:48:56] [Server thread/INFO]: Astaroft5236 joined the game
 [04:48:56] [Server thread/INFO]: Astaroft5236[/127.0.0.1:0] logged in with entity id 1810 at ([world]-4.5, 94.0, -7.5)
+[04:49:22] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Astaroft5236 has disconnected from the Java server because of Bedrock client timed out
+[04:49:22] [Server thread/INFO]: Astaroft5236 lost connection: Disconnected
+[04:49:22] [Server thread/INFO]: Astaroft5236 left the game
+[04:52:40] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Astaroft5236
+[04:52:40] [localSession-7-1/INFO]: [Geyser-Spigot] Astaroft5236 (logged in as: Astaroft5236) has connected to the Java server
+[04:52:40] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Astaroft5236 joined (UUID: 00000000-0000-0000-0009-01ff5e3512a5)
+[04:52:41] [Server thread/INFO]: .Astaroft5236 joined the game
+[04:52:41] [Server thread/INFO]: .Astaroft5236[/127.0.0.1:0] logged in with entity id 2691 at ([world]250.66858, 64.0, -358.40143)
+[04:53:07] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Astaroft5236 has disconnected from the Java server because of Bedrock client timed out
+[04:53:07] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Astaroft5236 disconnected
+[04:53:07] [Server thread/INFO]: .Astaroft5236 lost connection: Disconnected
+[04:53:07] [Server thread/INFO]: .Astaroft5236 left the game
+[04:58:08] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Astaroft5236
+[04:58:08] [localSession-7-2/INFO]: [Geyser-Spigot] Astaroft5236 (logged in as: Astaroft5236) has connected to the Java server
+[04:58:08] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Astaroft5236 joined (UUID: 00000000-0000-0000-0009-01ff5e3512a5)
+[04:58:08] [Server thread/INFO]: .Astaroft5236 joined the game
+[04:58:08] [Server thread/INFO]: .Astaroft5236[/127.0.0.1:0] logged in with entity id 3603 at ([world]249.3836, 64.0, -358.18643)
+[04:58:24] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Astaroft5236 disconnected
+[04:58:24] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Astaroft5236 has disconnected from the Java server because of Bedrock client timed out
+[04:58:24] [Server thread/INFO]: .Astaroft5236 lost connection: Disconnected
+[04:58:24] [Server thread/INFO]: .Astaroft5236 left the game
